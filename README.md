@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha primeira página web</title>
-</head>
-<body>
-    <h1>Minha primeira página web</h1>
-    <p>Seja bem-vindo à minha página!</p>
-    <p>Meu nome é Maria Lara Tavares de Paula.</p>
-</body>
-</html>
+# Minha primeira página Web
+
+## Sobre a atividade
+Esta é minha primeira página desenvolvida na disciplina Programação Web I.
+
+## Tecnologias utilizadas
+- HTML
+- GitHub
+
+## Evidências da atividade
+1. Página HTML criada e funcionando.
+2. Alteração visual temporária pelas DevTools.
+3. Repositório com o primeiro commit realizado.
